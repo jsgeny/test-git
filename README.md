@@ -1,4 +1,5 @@
 //============================================================//
+
  Homework. 2. Components [KP] Task #1                                                          
                                                                                                      
  Libraries have been installed: React, Bootstrap@5.1.0 .                                             
