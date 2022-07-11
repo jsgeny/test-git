@@ -1,3 +1,16 @@
+//=====================================================================================================//
+// Homework. 2. Components [KP] Task #1                                                                //
+//                                                                                                     //
+// Libraries have been installed: React, Bootstrap@5.1.0 .                                             //
+//                                                                                                     //
+// When the page loads, the table is drawn.                                                            //
+//                                                                                                     //
+// On the delete button, we listen to the click event, which deletes the current row in the table.     //
+//                                                                                                     //
+// The word "man" and "tusanet" declines, depending on the number                                      //
+//                                                                                                     //
+//=====================================================================================================//
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
